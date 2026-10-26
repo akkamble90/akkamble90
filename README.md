@@ -3,7 +3,7 @@ I'm an engineering graduate from COEP Technological University with a Minor Degr
 ## What I Work On<br>
 Data Engineering:Building data pipelines, lakehouse architectures, and distributed data systems.<br>AI/ML: Developing machine learning and AI-powered applications.<br>Generative & Agentic AI: Exploring LLMs, RAG, and multi-agent systems.<br>Business Analysis: Translating business requirements into data-driven solutions.<br>
 ## Currently Exploring<br>
-Advanced Data Engineering and Lakehouse Architectures<br>Databricks, Delta Lake, and Distributed Data Processing<br>Generative AI, Large Language Models (LLMs), and RAG<br>Agentic AI, Multi-Agent Systems, and LLM-Powered Applications<br><br>Business Analysis, Requirements Gathering, and Data-Driven Decision Making<br>Cloud Data Platforms and MLOps
+Advanced Data Engineering and Lakehouse Architectures<br>Databricks, Delta Lake, and Distributed Data Processing<br>Generative AI, Large Language Models (LLMs), and RAG<br>Agentic AI, Multi-Agent Systems, and LLM-Powered Applications<br>Business Analysis, Requirements Gathering, and Data-Driven Decision Making<br>Cloud Data Platforms and MLOps
 
 
 ## 🌐 Socials:
