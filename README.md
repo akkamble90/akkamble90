@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm an engineering graduate from COEP Technological University with a Minor Degree in Data Science and Artificial Intelligence from IIT Mandi.<br>I enjoy building data-intensive and AI-powered systems that turn raw data into useful insights, analytical solutions, and intelligent applications.<br> 
+## 💫 About Me:
+I'm an engineering graduate from COEP Technological University with a Minor Degree in Data Science and Artificial Intelligence from IIT Mandi. I enjoy building data-intensive and AI-powered systems that turn raw data into useful insights, analytical solutions, and intelligent applications.<br> 
 ## What I Work On<br>
 Data Engineering:Building data pipelines, lakehouse architectures, and distributed data systems.<br>AI/ML: Developing machine learning and AI-powered applications.<br>Generative & Agentic AI: Exploring LLMs, RAG, and multi-agent systems.<br>Business Analysis: Translating business requirements into data-driven solutions.<br>
 ## Currently Exploring<br>
